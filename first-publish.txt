@@ -1,5 +1,5 @@
-Name:
-Student Id:
-email:
+Name: Andy White
+Student Id: Dont Have a Student Id
+email: andy.white@bcu.ac.uk
 
-An interesting fact about my summer:
+An interesting fact about my summer: 
